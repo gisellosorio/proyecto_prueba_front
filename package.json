@@ -1,6 +1,6 @@
 {
-  "homepage":"https://gisellosorio.github.io/proyecto_prueba_front",
-  "name": "proyecto_prueba_front",
+  "homepage":"https://gisellosorio.github.io/front",
+  "name": "front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
